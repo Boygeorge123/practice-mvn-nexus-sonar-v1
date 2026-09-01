@@ -10,7 +10,7 @@ public class DemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
 
-        String name = "vamsi";
+        String name = "lama";
 		
         System.out.println(name);
     }
